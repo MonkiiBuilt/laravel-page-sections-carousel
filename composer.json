@@ -1,0 +1,14 @@
+{
+    "name": "laravel-page-sections-carousel",
+    "version": "0.0.1",
+    "require": {
+        "php": ">=5.5.9",
+        "laravel/framework": "5.4.*",
+        "MonkiiBuilt/laravel-pages": "0.0.2"
+    },
+    "autoload": {
+        "psr-4" : {
+            "MonkiiBuilt\\LaravelPageSectionsCarousel" : "src/"
+        }
+    }
+}
