@@ -4,7 +4,8 @@
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.4.*",
-        "MonkiiBuilt/laravel-pages": "0.0.2"
+        "MonkiiBuilt/laravel-pages": "0.0.2",
+        "MonkiiBuilt/laravel-asset-manager": "0.0.1"
     },
     "autoload": {
         "psr-4" : {
